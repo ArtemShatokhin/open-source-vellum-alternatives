@@ -19,6 +19,12 @@ Vellum is a personal AI assistant. It runs on your own machine by default or in 
 
 Kortix is built for a team. Its agents, the skills they share, the company memory, and every connector live in one git repo the team owns, and each session runs on its own cloud computer. Work lands through a change request. Vellum shapes an assistant around one person; Kortix shapes an operating system around a company and the people and agents inside it.
 
+## Where these comparisons live
+
+The site behind this repository works the same material through in more depth. Start with the [Kortix vs Vellum head-to-head](https://vellumalternative.com/kortix-vs-vellum) and the [Vellum pricing breakdown](https://vellumalternative.com/vellum-pricing) for the two-product question, the [self-hosting guide](https://vellumalternative.com/self-hosting) for running the open-source platform on your own server, and the [Vellum alternatives overview](https://vellumalternative.com/vellum-alternatives) for the wider field.
+
+For the questions buyers ask next, the site adds a [Vellum AI review](https://vellumalternative.com/vellum-ai-review) that judges the personal-assistant case on its own terms, [Vellum vs ChatGPT](https://vellumalternative.com/vellum-vs-chatgpt) for the assistant-to-assistant comparison, [Vellum for teams](https://vellumalternative.com/vellum-for-teams) for shared context, scoped permissions and review, and a [migration guide](https://vellumalternative.com/migrate-from-vellum) for moving one job across first.
+
 ## In this repository
 
 - [Vellum vs Kortix](docs/vellum-vs-kortix.md): a head-to-head built from Vellum's own pages and the Kortix docs.
