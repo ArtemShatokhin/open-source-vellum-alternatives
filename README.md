@@ -25,6 +25,8 @@ The site behind this repository works the same material through in more depth. S
 
 For the questions buyers ask next, the site adds a [Vellum AI review](https://vellumalternative.com/vellum-ai-review) that judges the personal-assistant case on its own terms, [Vellum vs ChatGPT](https://vellumalternative.com/vellum-vs-chatgpt) for the assistant-to-assistant comparison, [Vellum for teams](https://vellumalternative.com/vellum-for-teams) for shared context, scoped permissions and review, and a [migration guide](https://vellumalternative.com/migrate-from-vellum) for moving one job across first.
 
+For the questions the site answers next: [Is Vellum free?](https://vellumalternative.com/is-vellum-free) separates the free download-and-start case from the Vellum Cloud plans, [Vellum vs Claude](https://vellumalternative.com/vellum-vs-claude) puts both assistants beside the open-source option a team owns, [Vellum data privacy](https://vellumalternative.com/vellum-data-privacy) covers where memory, credentials and conversations live, and [Vellum alternatives for developers](https://vellumalternative.com/vellum-alternatives-for-developers) is the build-side comparison of what you run and who owns it.
+
 ## In this repository
 
 - [Vellum vs Kortix](docs/vellum-vs-kortix.md): a head-to-head built from Vellum's own pages and the Kortix docs.
